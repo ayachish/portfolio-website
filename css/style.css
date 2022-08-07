@@ -227,11 +227,15 @@ input[type=text], select, textarea {
     text-decoration: underline;
 }
 
+.footer__link {
+    margin-left: 2em;
+}
+
 .social-list {
     list-style: none;
     display: flex;
     justify-content: start;
-    margin: 2em 0;
+    margin: 2em 2em;
     padding: 0;
 }
 
@@ -287,4 +291,8 @@ header {
 .align-center {
    
     margin: 0 auto;
+}
+
+.nameform {
+    margin-left: 15em;
 }
