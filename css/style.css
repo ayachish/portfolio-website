@@ -294,5 +294,9 @@ header {
 }
 
 .nameform {
-    margin-left: 15em;
+    text-align: center;
+    margin-right: 5em;
+}
+.emailform {
+    text-align: center;
 }
