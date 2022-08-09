@@ -260,7 +260,7 @@ header {
     border-radius: 15px;
     background-color: #283044;
     color: var(--clr-light);
-    width: 15%;
+    width: auto;
     margin: 0 auto;
 }
 
@@ -273,6 +273,13 @@ header {
     margin: 1em 1em;
     padding: 0;
     z-index: 500;
+    
+}
+
+.nav__item {
+    /* border-radius: 15px;
+    background-color: #283044; */
+    color: var(--clr-light);
 }
 
 .nav__link {
